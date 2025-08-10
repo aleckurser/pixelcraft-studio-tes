@@ -79,6 +79,20 @@
     "tailwindcss": "^3.4.17",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.38.0",
-    "vite": "^5.4.19"
-  }
+    "vite": "^5.4.19",
+    "@types/bun": "latest"
+  },
+  "description": "**URL**: https://lovable.dev/projects/927f1e75-5cb7-48a8-b65c-f466291acc89",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleckurser/pixelcraft-studio-tes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleckurser/pixelcraft-studio-tes/issues"
+  },
+  "homepage": "https://github.com/aleckurser/pixelcraft-studio-tes#readme"
 }
